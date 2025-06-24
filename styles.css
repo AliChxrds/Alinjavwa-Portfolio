@@ -358,6 +358,7 @@ display: flex;
 }
 
 .my-intro{
+  font-size: 10vw;
   font-weight: 550;
   padding: 1rem;
   padding-top: 0.2rem;
